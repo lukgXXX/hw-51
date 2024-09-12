@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from 'react';
-import Ball from './Ball';
+import Ball from "./components/Balls/Ball.tsx";
 
 const generateRandomNumbers = (): number[] => {
     const numbers: Set<number> = new Set();
