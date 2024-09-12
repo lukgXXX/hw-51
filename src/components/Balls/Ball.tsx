@@ -1,4 +1,4 @@
-import './Ball.css';  // Стили для компонента
+import './Ball.css';
 
 interface BallProps {
     number: number;
